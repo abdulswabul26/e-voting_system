@@ -1,0 +1,1 @@
+<!-- Handles voter eligibility and OTP initiation -->
